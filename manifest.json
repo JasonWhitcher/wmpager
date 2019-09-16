@@ -1,0 +1,41 @@
+{
+	"short_name": "WM Pager",
+	"name": "WM Pager App",
+	"icons": [
+		{
+			"src": "/images/icon-wmp-128.png",
+			"type": "image/png",
+			"sizes": "128x128"
+		},
+		{
+			"src": "/images/icon-wmp-144.png",
+			"type": "image/png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "/images/icon-wmp-152.png",
+			"type": "image/png",
+			"sizes": "152x152"
+		},
+		{
+			"src": "/images/icon-wmp-192.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/images/icon-wmp-256.png",
+			"type": "image/png",
+			"sizes": "256x256"
+		},
+		{
+			"src": "/images/icon-wmp-512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "/index.html",
+	"background_color": "#cac5fe",
+	"display": "standalone",
+	"theme_color": "#cac5fe",
+	"orientation": "portrait"
+}
